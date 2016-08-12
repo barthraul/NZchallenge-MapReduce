@@ -7,5 +7,5 @@ Memory-efficient ID type and ID generator (MapReduce approach).
  iterations: number of IDs to be generated in the batch
  
  * Output: 
- - Ids are printed for analysis purpose
- - The batch is stored in partitions inside the <out> folder
+ Ids are printed for analysis purpose
+ The batch is stored in partitions inside the <out> folder
